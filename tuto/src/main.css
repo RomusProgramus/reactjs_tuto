@@ -1,0 +1,46 @@
+*{  
+    background-color: rgb(37, 5, 179);
+    display: inline-block;
+    justify-content: left;
+    text-align: center;
+    align-items: center;
+}
+
+div {
+    display: inline-block;
+    justify-content: left;
+    text-align: center;
+    align-items: center;
+    margin:1%;
+}
+
+.video {
+    width: 1000px;
+    height: 100%;
+    color: #000;
+    background-color: #b3da28;
+    border-radius: 30px;
+    padding: 2px;
+    
+    p, h1, .div_in {
+        color: #000;
+        background: none;
+        margin: 1%;
+        margin-right: 10%;
+    }
+
+    button {
+        background: #eee;
+        margin: 1%;
+        border-radius: 10px;
+        width: 130px;
+        height: 30px;
+    }
+
+    .button_delete{
+        background: #ff0000;
+    }
+
+    display: flex
+}s
+
